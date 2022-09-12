@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Poppins&family=Roboto:wght@300&display=swap');
+
+body{
+    background-color: #447581;
+    font-family: 'poppins', sans-serif;
+}
+
+.container{
+    border-radius: 5px;
+    padding: 15px;
+    width: 400px;
+    height: 350px;
+    position: relative;
+
+    /* top: 50%;
+    left: 60%; */
+    margin-bottom: 250px;
+    margin-top: 150px;
+    background-color: #1c3038 ;
+}
+
+
+.head{
+    color: white;
+}
+
+.mail-box{
+    letter-spacing: 1.5px;
+    width: 350px;
+}
+
+
+.submit-btn{
+    width: 380px;
+    height: 40px;
+    margin-top: 80px;
+    
+}
+
+.input{
+    width: 200px;
+}
